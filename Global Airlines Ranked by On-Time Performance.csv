@@ -1,0 +1,109 @@
+﻿Airline Name,Airline Code,OTP Rank,Airline Region,On-time Performance,Canceled Flights,Total Flights
+Hainan Airlines,HU,1,Asia : North East Asia,92.03%,0.33%,22637
+Oman Air,WY,2,Middle East,91.61%,0%,3280
+Royal Jordanian,RJ,3,Middle East,91.38%,0.08%,2664
+Safair,FA,4,Africa : Southern Africa,90.69%,0.14%,5651
+Xiamen Airlines Company,MF,5,Asia : North East Asia,90.65%,0.04%,19611
+Copa Airlines,CM,6,Latin America : Central America,90.08%,0.11%,10780
+Saudi Arabian Airlines,SV,7,Middle East,89.78%,0.07%,16964
+Star Flyer,7G,8,Asia : North East Asia,89.75%,0%,1947
+Fuji Dream Airlines,JH,9,Asia : North East Asia,89.09%,0.31%,2230
+Japan Transocean Air,NU,10,Asia : North East Asia,88.6%,0.29%,2072
+Qatar Airways,QR,11,Middle East,86.75%,0.12%,16833
+Skymark Airlines,BC,12,Asia : North East Asia,86.57%,0.15%,4779
+Iberia,IB,13,Europe : Western Europe,85.68%,0%,18577
+China Eastern Airlines,MU,14,Asia : North East Asia,85.64%,1.62%,66488
+Aeromexico,AM,15,Latin America : Central America,84.54%,0.57%,16247
+Hawaiian Airlines,HA,16,North America,84.52%,0.52%,7071
+Aerolineas Argentinas,AR,17,Latin America : Lower South America,84.04%,0.25%,9627
+SAS Scandinavian Airlines,SK,18,Europe : Western Europe,83.87%,0.35%,14430
+Gulf Air,GF,19,Middle East,83.21%,0%,4264
+HK Express,UO,20,Asia : North East Asia,83.02%,0%,3520
+Flynas,XY,21,Middle East,82.78%,0.1%,8687
+Air Europa,UX,22,Europe : Western Europe,82.54%,0.16%,5639
+Austrian Airlines Ag Dba Austrian,OS,23,Europe : Western Europe,82.38%,0.7%,8772
+Etihad Airways,EY,24,Middle East,81.58%,0.28%,7896
+Solaseed,6J,25,Asia : North East Asia,81.21%,0.56%,2480
+Azerbaijan Airlines,J2,26,Europe : Eastern/Central Europe,81.04%,0.8%,2244
+Pegasus Airlines,PC,27,Europe : Eastern/Central Europe,80.94%,0%,17104
+Transavia.Com,HV,28,Europe : Western Europe,80.55%,0%,3585
+Jeju Airlines,7C,29,Asia : North East Asia,80.18%,0.03%,6635
+Delta Air Lines,DL,30,North America,79.97%,0.35%,144281
+Sky Airline,H2,31,Latin America : Lower South America,79.9%,0%,5046
+Emirates,EK,32,Middle East,79.56%,0.03%,14812
+United Airlines,UA,33,North America,79.27%,0.86%,139874
+Southwest Airlines,WN,34,North America,79.26%,0.48%,118972
+Cathay Pacific Airways,CX,35,Asia : North East Asia,79.03%,0.04%,9255
+All Nippon Airways,NH,36,Asia : North East Asia,78.91%,0.69%,37614
+Vietnam Airlines,VN,37,Asia : South East Asia,78.65%,0%,12104
+Caribbean Airlines,BW,38,Latin America : Caribbean,78.63%,0.4%,2753
+Ita Airways,AZ,39,Europe : Western Europe,78.05%,0.34%,10314
+Alaska Airlines,AS,40,North America,77.98%,1.25%,36768
+Qantas Airways,QF,41,Southwest Pacific,77.79%,2%,22185
+Aer Lingus,EI,42,Europe : Western Europe,77.74%,2.26%,8106
+Latam Airlines Group,LA,43,Latin America : Lower South America,77.6%,1.08%,48210
+Spirit Airlines,NK,44,North America,77.48%,0.53%,21450
+Philippine Airlines,PR,45,Asia : South East Asia,77.46%,0.95%,9973
+Airdo,HD,46,Asia : North East Asia,77.25%,1.78%,2017
+Sunexpress,XQ,47,Europe : Eastern/Central Europe,77.2%,0.1%,5032
+American Airlines,AA,48,North America,76.9%,1.02%,182456
+Flydubai,FZ,49,Middle East,76.53%,0.32%,10456
+Brussels Airlines,SN,50,Europe : Western Europe,76.44%,0.69%,5052
+Virgin Australia International,VA,51,Southwest Pacific,76.24%,0.84%,14480
+Peach Aviation Limited,MM,52,Asia : North East Asia,75.98%,0%,4982
+Indigo,6E,53,Asia : South Asia,75.88%,0%,68126
+Frontier Airlines Inc.,F9,54,North America,75.55%,0.42%,18293
+Japan Airlines,JL,55,Asia : North East Asia,75.42%,0.76%,26745
+Sky Express S.A.,GQ,56,Europe : Western Europe,75.18%,0%,4047
+Klm-Royal Dutch Airlines,KL,57,Europe : Western Europe,74.69%,2.51%,21463
+Malaysia Airlines,MH,58,Asia : South East Asia,74.61%,0.65%,9934
+Jet2.com,LS,59,Europe : Western Europe,74.61%,0%,5006
+Eva Airways,BR,60,Asia : North East Asia,74.47%,0%,5009
+Norwegian,D8,61,Europe : Western Europe,74.07%,0.89%,4178
+Air Arabia,G9,62,Middle East,73.74%,0.12%,6635
+Avelo Airlines,XP,63,North America,73.73%,0%,1962
+Jetsmart,JA,64,Latin America : Lower South America,73.15%,0%,6843
+Middle East Airlines,ME,65,Middle East,72.73%,0%,2094
+Allegiant Air LLC,G4,66,North America,72.64%,1.21%,11063
+Citilink,QG,67,Asia : South East Asia,72.58%,0%,7494
+Swiss,LX,68,Europe : Western Europe,72.4%,1.31%,11024
+Deutsche Lufthansa Ag,LH,69,Europe : Western Europe,72.23%,0.86%,29390
+Jetstar Airways,JQ,70,Southwest Pacific,71.97%,1.38%,11735
+Air Baltic Corporation,BT,71,Europe : Eastern/Central Europe,71.91%,0%,3807
+Korean Air,KE,72,Asia : North East Asia,71.85%,0.02%,11268
+Virgin Atlantic Airways,VS,73,Europe : Western Europe,71.8%,0.79%,2160
+Jetstar Asia,3K,74,Asia : South East Asia,71.29%,0%,1677
+Air India,AI,75,Asia : South Asia,70.98%,0.02%,23300
+Tap Air Portugal,TP,76,Europe : Western Europe,70.98%,0.57%,9264
+Easyjet,U2,77,Europe : Western Europe,70.8%,0.6%,43862
+Azul Airlines,AD,78,Latin America : Lower South America,70.65%,4.55%,27400
+Jetstar Japan,GK,79,Asia : North East Asia,70.49%,0.45%,2860
+Akasa Air,QP,80,Asia : South Asia,69.96%,1.05%,4295
+Jetblue Airways Corporation,B6,81,North America,69.95%,0.87%,28321
+British Airways,BA,82,Europe : Western Europe,69.03%,3.21%,24873
+China Airlines,CI,83,Asia : North East Asia,68.7%,0%,4917
+Cape Air,9K,84,North America,68.67%,5.24%,6622
+Air France,AF,85,Europe : Western Europe,68.49%,1.42%,23306
+Silver Airways Llc,3M,86,North America,67.95%,0.14%,2220
+Fiji Airways,FJ,87,Southwest Pacific,67.71%,2.3%,2351
+Air Transat A.T.Inc.,TS,88,North America,66.25%,0%,2144
+Spicejet,SG,89,Asia : South Asia,66.21%,2.39%,4732
+Westjet,WS,90,North America,66.15%,2.02%,15490
+Jambojet,JM,91,Africa : Eastern Africa,66.08%,0.17%,1730
+Norwegian Air Shuttle,DY,92,Europe : Western Europe,65.61%,1.46%,5958
+El Al Israel Airlines,LY,93,Middle East,65.61%,0.21%,2860
+Air New Zealand,NZ,94,Southwest Pacific,65.4%,4.4%,15329
+Condor Flugdienst,DE,95,Europe : Western Europe,64.74%,0%,2410
+South African Airways,SA,96,Africa : Southern Africa,64.57%,4.9%,2020
+Sun Country Airlines,SY,97,North America,64.27%,0.06%,3192
+Hong Kong Airlines,HX,98,Asia : North East Asia,63.34%,0.11%,2649
+Jin Air,LJ,99,Asia : North East Asia,62.87%,0.55%,5477
+Air Canada,AC,100,North America,61.71%,2.68%,30936
+Flair Airlines,F8,101,North America,61.25%,0%,2175
+Finnair,AY,102,Europe : Western Europe,61.22%,2.5%,9156
+Icelandair,FI,103,Europe : Western Europe,57.61%,3.55%,2536
+Breeze Airways,MX,104,North America,57.35%,1.28%,4203
+Porter Airlines,PD,105,North America,53.83%,3.36%,6902
+Egyptair,MS,106,Africa : North Africa,45.01%,0.47%,6874
+Sunwing Airlines Inc.,WG,107,North America,44.68%,0%,2155
+Intercaribbean Airways Ltd,JY,108,Latin America : Caribbean,40.62%,11.88%,1928
